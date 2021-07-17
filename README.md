@@ -9,7 +9,7 @@ My name is Victor Zottmann and I'm a full-stack developed based in Sydney, Austr
 - A social media clone made with React and NextJS, based on the Orkut platform from the early 2000s. This is part of an event held by Alura, a Brazilian tech school.
 
 #### 🌱 I’m currently learning
-
+<hr>
 - React
 - NextJS
 - DatoCMS
