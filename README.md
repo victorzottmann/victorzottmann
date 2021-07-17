@@ -13,7 +13,7 @@ My name is Victor Zottmann and I'm a full-stack developed based in Sydney, Austr
 
 #### 🌱 I’m currently learning...
 
-- React
+- ReactJS
 - NextJS
 - DatoCMS
 
