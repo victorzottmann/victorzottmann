@@ -4,12 +4,12 @@ My name is Victor Zottmann and I'm a Front-end Developer based in Sydney, Austra
 
 ---
 
-#### 🔭  I'm currently working on...
+#### 🔭   I'm currently working on...
 
 - A full-stack web app for my final assignment at Coder Academy (coding bootcamp school).
 - A social media clone made with React and NextJS, based on the Orkut platform from the early 2000s. This is part of an event held by Alura, a Brazilian tech school.
 
-#### 🌱  I’m currently learning...
+#### 🌱   I’m currently learning...
 
 - ReactJS
 - NextJS
