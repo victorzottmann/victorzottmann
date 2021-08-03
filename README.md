@@ -7,7 +7,7 @@ My name is Victor Zottmann and I'm a Front-End Developer based in Sydney, Austra
 #### 🔭   I'm currently working on...
 
 - A full-stack web app for my final assignment at Coder Academy (coding bootcamp school).
-- 
+
 #### 🌱   I’m currently learning...
 
 - ReactJS
