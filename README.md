@@ -1,6 +1,6 @@
 ### Hey everyone! 👋
 
-My name is Victor Zottmann and I'm a Frontend Developer based in Sydney, Australia. I've been coding since 2020 and have a passion for Web Development and UI / UX Design. In my spare time you'll find me practicing photography  📷, enjoying some movies and tv shows 🎬, playing chess  ♞, and going out for a walk  🚶‍♂️.
+My name is Victor Zottmann and I'm a Web Developer based in Sydney, Australia. I've been coding since 2020 and have a passion for Frontend Development and UI / UX Design. In my spare time you'll find me practicing photography  📷, enjoying some movies and tv shows 🎬, playing chess  ♞, and going out for a walk  🚶‍♂️.
 
 
 
