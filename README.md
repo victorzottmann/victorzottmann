@@ -1,6 +1,6 @@
 ### Hey everyone! 👋
 
-I'm a Frontend Developer with a passion for UI/UX design based in Sydney, Australia. In my spare time you'll find me practicing photography  📷, enjoying some movies and tv shows 🎬, playing chess ♞, and going out for a walk 🚶‍♂️.
+I'm a Frontend Developer with a passion for Audio Engineering and Acoustics based in Sydney, Australia. In my spare time you'll find me practicing photography  📷, enjoying some movies and tv shows 🎬, playing chess ♞, and going out for a walk 🚶‍♂️.
 
 
 
